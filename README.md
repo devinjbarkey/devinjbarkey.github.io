@@ -6,6 +6,7 @@ Welcome to my site! Here you can find my resume, learn a little more about me, a
 # Links
 
 [Resume](https://github.com/devinjbarkey/devinjbarkey.github.io/blob/main/Devin%20Barkey%20Resume.pdf)
+
 [LinkedIn](www.linkedin.com/in/devin-barkey-844295147)
 
 # Projects
