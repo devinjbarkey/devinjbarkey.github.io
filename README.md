@@ -14,7 +14,7 @@ I'm a recent engineering/math Vanderbilt grad passionate about criminal justice 
 # Projects
 
 ## Florida Voted for Four More Years of Trump... and a $15 Minimum Wage
-Following the 2020 general election, I explored some seemingly-contradictory results in a short in a little [Jupyter Notebook](https://nbviewer.jupyter.org/github/devinjbarkey/devinjbarkey.github.io/blob/main/FL2020.ipynb).
+Following the 2020 general election, I explored some seemingly-contradictory results in a short [Jupyter Notebook](https://nbviewer.jupyter.org/github/devinjbarkey/devinjbarkey.github.io/blob/main/FL2020.ipynb).
 
 ## COVID-19 Tracker for La Habra, CA
 As part of a [Bluebonnet](https://www.bluebonnetdata.org/) team volunteering for a city council campaign in La Habra, CA, I created a application using R and Shiny that tracked the number of daily cases reported and the cumulative number of cases reported in La Habra.
