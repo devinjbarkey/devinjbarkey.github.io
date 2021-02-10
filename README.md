@@ -30,9 +30,11 @@ For my part of a group final project for *PSCI 2300: Introduction to Data Scienc
 
 # Online Courses
 A list of some courses I've taken or am taking online:
-- [IBM Data Analysis with Python](https://www.youracclaim.com/badges/e88165e4-a65c-43c3-892a-dbc20d043b7a/public_url)
-- [IBM Data Visualization with Python](https://www.youracclaim.com/badges/be4db618-7901-4074-a19f-8cb43ef3aafb/public_url)
-- IBM Databases and SQL for Data Science (*In Progress*)
+- [IBM Data Analysis with Python](https://www.coursera.org/account/accomplishments/verify/9PRDJ4LZCJR3)
+- [IBM Data Visualization with Python](https://www.coursera.org/account/accomplishments/verify/X3W67W7BCPAP)
+- [IBM Databases and SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/6EE86UK5DGF2)
+- [IBM Tools for Data Science](https://www.coursera.org/account/accomplishments/verify/P22DD9SHFGDW)
+- IBM Machine Learning with Python (*In Progress*)
 - [Kaggle Pandas](https://www.kaggle.com/learn/certification/devinbarkey/pandas)
 - [Kaggle Intro to Machine Learning](https://www.kaggle.com/learn/certification/devinbarkey/intro-to-machine-learning)
 - Kaggle Intro to SQL (*In Progress*)
