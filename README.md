@@ -36,6 +36,7 @@ A list of some courses I've taken or am taking online:
 - [IBM Tools for Data Science](https://www.coursera.org/account/accomplishments/verify/P22DD9SHFGDW)
 - IBM Machine Learning with Python (*In Progress*)
 - [Kaggle Pandas](https://www.kaggle.com/learn/certification/devinbarkey/pandas)
+- [Kaggle Data Cleaning](https://www.kaggle.com/learn/certification/devinbarkey/data-cleaning)
 - [Kaggle Intro to Machine Learning](https://www.kaggle.com/learn/certification/devinbarkey/intro-to-machine-learning)
 - Kaggle Intro to SQL (*In Progress*)
 
@@ -43,15 +44,14 @@ A list of some courses I've taken or am taking online:
 As part of a resolution to read more books this year, I'm going to be listing books I've read, am working on, or want to read in 2021.
 
 ## Reading Now
+- *A Promised Land* by Barack Obama
+- *A Mathematician's Lament: How School Cheats Us Out of Our Most Fascinating and Imaginative Art Form* by Paul Lockhart
+
+## Read This Year
 - *We Were Eight Years in Power: An American Tragedy* by Ta-Nehisi Coates
 - *Annihilation* by Jeff Vandermeer
 
-## Read This Year
-Hopefully, this will fill up soon...
-
 ## In My Book Pile
-- *A Promised Land* by Barack Obama
 - *Stamped from the Beginning: The Definitive History of Racist Ideas in America* by Ibram X. Kendi
-- *A Mathematician's Lament: How School Cheats Us Out of Our Most Fascinating and Imaginative Art Form* by Paul Lockhart
 - *Measurement* by Paul Lockhart
 - *The Warmth of Other Suns: The Epic Story of America's Great Migration* by Isabel Wilkerson
