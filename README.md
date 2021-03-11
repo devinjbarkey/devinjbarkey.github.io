@@ -34,7 +34,7 @@ A list of some courses I've taken or am taking online:
 - [IBM Data Visualization with Python](https://www.coursera.org/account/accomplishments/verify/X3W67W7BCPAP)
 - [IBM Databases and SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/6EE86UK5DGF2)
 - [IBM Tools for Data Science](https://www.coursera.org/account/accomplishments/verify/P22DD9SHFGDW)
-- IBM Machine Learning with Python (*In Progress*)
+- [IBM Machine Learning with Python](https://www.coursera.org/account/accomplishments/verify/NQX8MJKMWXWJ)
 - [Kaggle Pandas](https://www.kaggle.com/learn/certification/devinbarkey/pandas)
 - [Kaggle Data Cleaning](https://www.kaggle.com/learn/certification/devinbarkey/data-cleaning)
 - [Kaggle Intro to Machine Learning](https://www.kaggle.com/learn/certification/devinbarkey/intro-to-machine-learning)
@@ -45,11 +45,11 @@ As part of a resolution to read more books this year, I'm going to be listing bo
 
 ## Reading Now
 - *A Promised Land* by Barack Obama
-- *A Mathematician's Lament: How School Cheats Us Out of Our Most Fascinating and Imaginative Art Form* by Paul Lockhart
 
 ## Read This Year
 - *We Were Eight Years in Power: An American Tragedy* by Ta-Nehisi Coates
 - *Annihilation* by Jeff Vandermeer
+- *A Mathematician's Lament: How School Cheats Us Out of Our Most Fascinating and Imaginative Art Form* by Paul Lockhart
 
 ## In My Book Pile
 - *Stamped from the Beginning: The Definitive History of Racist Ideas in America* by Ibram X. Kendi
