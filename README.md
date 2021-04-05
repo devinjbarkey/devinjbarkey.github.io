@@ -30,15 +30,17 @@ For my part of a group final project for *PSCI 2300: Introduction to Data Scienc
 
 # Online Courses
 A list of some courses I've taken or am taking online:
+- [IBM Python for Data Science, AI, and Development](https://www.coursera.org/account/accomplishments/verify/PFAXD3UBCZTE)
+- [IBM Python Project for Data Science](https://www.coursera.org/account/accomplishments/verify/ERHUZ6PMKQZW)
 - [IBM Data Analysis with Python](https://www.coursera.org/account/accomplishments/verify/9PRDJ4LZCJR3)
 - [IBM Data Visualization with Python](https://www.coursera.org/account/accomplishments/verify/X3W67W7BCPAP)
-- [IBM Databases and SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/6EE86UK5DGF2)
-- [IBM Tools for Data Science](https://www.coursera.org/account/accomplishments/verify/P22DD9SHFGDW)
 - [IBM Machine Learning with Python](https://www.coursera.org/account/accomplishments/verify/NQX8MJKMWXWJ)
+- [IBM Databases and SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/6EE86UK5DGF2)
+- [IBM Data Science Methodology](https://www.coursera.org/account/accomplishments/verify/APPKMHNVGQRA)
+- [IBM Tools for Data Science](https://www.coursera.org/account/accomplishments/verify/P22DD9SHFGDW)
 - [Kaggle Pandas](https://www.kaggle.com/learn/certification/devinbarkey/pandas)
 - [Kaggle Data Cleaning](https://www.kaggle.com/learn/certification/devinbarkey/data-cleaning)
 - [Kaggle Intro to Machine Learning](https://www.kaggle.com/learn/certification/devinbarkey/intro-to-machine-learning)
-- Kaggle Intro to SQL (*In Progress*)
 
 # Reading List
 As part of a resolution to read more books this year, I'm going to be listing books I've read, am working on, or want to read in 2021.
