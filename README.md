@@ -39,8 +39,10 @@ A list of some courses I've taken or am taking online:
 - [IBM Data Science Methodology](https://www.coursera.org/account/accomplishments/verify/APPKMHNVGQRA)
 - [IBM Tools for Data Science](https://www.coursera.org/account/accomplishments/verify/P22DD9SHFGDW)
 - [Kaggle Pandas](https://www.kaggle.com/learn/certification/devinbarkey/pandas)
+- [Kaggle Data Visualization](https://www.kaggle.com/learn/certification/devinbarkey/data-visualization)
 - [Kaggle Data Cleaning](https://www.kaggle.com/learn/certification/devinbarkey/data-cleaning)
 - [Kaggle Intro to Machine Learning](https://www.kaggle.com/learn/certification/devinbarkey/intro-to-machine-learning)
+- [Kaggle Geospatial Analysis](https://www.kaggle.com/learn/certification/devinbarkey/geospatial-analysis)
 
 # Reading List
 As part of a resolution to read more books this year, I'm going to be listing books I've read, am working on, or want to read in 2021.
@@ -57,3 +59,4 @@ As part of a resolution to read more books this year, I'm going to be listing bo
 - *Stamped from the Beginning: The Definitive History of Racist Ideas in America* by Ibram X. Kendi
 - *Measurement* by Paul Lockhart
 - *The Warmth of Other Suns: The Epic Story of America's Great Migration* by Isabel Wilkerson
+- *The Sum of Us: What Racism Costs Everyone and How We Can Prosper Together* by Heather McGhee
