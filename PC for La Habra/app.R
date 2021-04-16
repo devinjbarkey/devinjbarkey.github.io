@@ -15,7 +15,7 @@ ui <- fluidPage(
 
 server <- function(input, output) {
   
-  path <- "https://opendata.arcgis.com/datasets/772f5cdbb99c4f6689ed1460c26f4b05_0/FeatureServer/0/query?where=1%3D1&outFields=DateSpecCollect,La_Habra&outSR=4326&f=json"
+  path <- "https://services2.arcgis.com/LORzk2hk9xzHouw9/arcgis/rest/services/Public_OC_COVID_Cases_by_City_by_Day/FeatureServer/0/query?where=1%3D1&outFields=La_Habra,DateSpecCollect&outSR=4326&f=json"
   request <- GET(url = path)
   response <- content(request, as = "text")
   df <- fromJSON(response, flatten = TRUE)
@@ -24,6 +24,7 @@ server <- function(input, output) {
   data <- rename(data, date = attributes.DateSpecCollect, cases = attributes.La_Habra)
   data$date <- as.Date(data$date, format = '%d-%b-%y')
   data <- filter(data, date >= as.Date("2020-03-01"))
+  data <- data[order(data$date),]
   data$cum_cases <- cumsum(data$cases)
   
   output$cases <- renderPlotly({
