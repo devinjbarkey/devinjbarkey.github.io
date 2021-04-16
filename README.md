@@ -18,7 +18,7 @@ Following the 2020 general election, I explored some seemingly-contradictory res
 
 ## COVID-19 Tracker for La Habra, CA
 As part of a [Bluebonnet](https://www.bluebonnetdata.org/) team volunteering for a city council campaign in La Habra, CA, I created a application using R and Shiny that tracked the number of daily cases reported and the cumulative number of cases reported in La Habra.
-- [Tracker](https://devinbarkey.shinyapps.io/pc_-_la_habra/)
+- [Tracker](https://devinbarkey.shinyapps.io/pc_for_la_habra/)
 - [Code](https://github.com/devinjbarkey/devinjbarkey.github.io/blob/main/PC%20for%20La%20Habra/app.R)
 
 ## Using a Genetic Algorithm to Find Optimal Strategies in Iterated Prisoner’s Dilemma
