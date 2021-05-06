@@ -13,6 +13,10 @@ I'm a recent engineering/math Vanderbilt grad passionate about criminal justice 
 
 # Projects
 
+## The Roberts Court - Frequency in the Majority
+Inspired by a graphic on [SCOTUSblog](https://www.scotusblog.com/) showing each justice's frequency in the majority, I decided to [visualize](https://nbviewer.jupyter.org/github/devinjbarkey/devinjbarkey.github.io/blob/main/The%20Roberts%20Court%20-%20Majority%20Frequency.ipynb) that measure across all terms in the Roberts Court. I obtained the data from the [Supreme Court Database](http://supremecourtdatabase.org/index.php).
+<img src="roberts_majority.png" alt="hi" class="inline"/>
+
 ## Florida Voted for Four More Years of Trump... and a $15 Minimum Wage
 Following the 2020 general election, I explored some seemingly-contradictory results in a short [Jupyter Notebook](https://nbviewer.jupyter.org/github/devinjbarkey/devinjbarkey.github.io/blob/main/FL2020.ipynb).
 
@@ -60,3 +64,4 @@ As part of a resolution to read more books this year, I'm going to be listing bo
 - *Measurement* by Paul Lockhart
 - *The Warmth of Other Suns: The Epic Story of America's Great Migration* by Isabel Wilkerson
 - *The Sum of Us: What Racism Costs Everyone and How We Can Prosper Together* by Heather McGhee
+- *Educated* by Tara Westover
