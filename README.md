@@ -14,11 +14,14 @@ I'm a recent engineering/math Vanderbilt grad passionate about criminal justice 
 # Projects
 
 ## The Roberts Court - Frequency in the Majority
-Inspired by a graphic on [SCOTUSblog](https://www.scotusblog.com/) showing each justice's frequency in the majority, I decided to [visualize](https://nbviewer.jupyter.org/github/devinjbarkey/devinjbarkey.github.io/blob/main/The%20Roberts%20Court%20-%20Majority%20Frequency.ipynb) that measure across all terms in the Roberts Court. I obtained the data from the [Supreme Court Database](http://supremecourtdatabase.org/index.php).
-<img src="roberts_majority.png" alt="hi" class="inline"/>
+Inspired by a graphic on [SCOTUSblog](https://www.scotusblog.com/) showing each justice's frequency in the majority, I decided to [visualize](https://nbviewer.jupyter.org/github/devinjbarkey/devinjbarkey.github.io/blob/main/The%20Roberts%20Court/The%20Roberts%20Court%20-%20Majority%20Frequency.ipynb) that measure across all terms in the Roberts Court. I obtained the data from the [Supreme Court Database](http://supremecourtdatabase.org/index.php).
+
+<img src="Images/roberts_majority.png" alt="hi" class="inline"/>
 
 ## Florida Voted for Four More Years of Trump... and a $15 Minimum Wage
 Following the 2020 general election, I explored some seemingly-contradictory results in a short [Jupyter Notebook](https://nbviewer.jupyter.org/github/devinjbarkey/devinjbarkey.github.io/blob/main/FL2020.ipynb).
+
+<img src="Images/cluster_scatterplot.png" alt="hi" class="inline"/>
 
 ## COVID-19 Tracker for La Habra, CA
 As part of a [Bluebonnet](https://www.bluebonnetdata.org/) team volunteering for a city council campaign in La Habra, CA, I created a application using R and Shiny that tracked the number of daily cases reported and the cumulative number of cases reported in La Habra.
@@ -28,9 +31,14 @@ As part of a [Bluebonnet](https://www.bluebonnetdata.org/) team volunteering for
 ## Using a Genetic Algorithm to Find Optimal Strategies in Iterated Prisoner’s Dilemma
 For my final project in *MATH 4630: Nonlinear Optimization*, I wrote a [program](https://github.com/devinjbarkey/devinjbarkey.github.io/tree/main/MATH%204630%20Project) which created a so-called genetic algorithm to attempt to identify optimal strategies for the iterated prisoner's dilemma game.
 
+<img src="Images/Figure_2.png" alt="hi" class="inline"/>
+
 ## Building an Education-only Model to Predict 2020 Presidential Results
 For my part of a group final project for *PSCI 2300: Introduction to Data Science for Politics*, I built a linear model to predict the 2020 presidential election in five swing states using only education data.
 - [Report](https://github.com/devinjbarkey/devinjbarkey.github.io/blob/main/PSCI_2300_Final_Project.pdf)
+
+<img src="Images/PA 2016.png" alt="hi" class="inline"/>
+<img src="Images/PA Pred 2020.png" alt="hi" class="inline"/>
 
 # Online Courses
 A list of some courses I've taken or am taking online:
@@ -53,6 +61,7 @@ As part of a resolution to read more books this year, I'm going to be listing bo
 
 ## Reading Now
 - *A Promised Land* by Barack Obama
+- *The Warmth of Other Suns: The Epic Story of America's Great Migration* by Isabel Wilkerson
 
 ## Read This Year
 - *We Were Eight Years in Power: An American Tragedy* by Ta-Nehisi Coates
@@ -62,6 +71,6 @@ As part of a resolution to read more books this year, I'm going to be listing bo
 ## In My Book Pile
 - *Stamped from the Beginning: The Definitive History of Racist Ideas in America* by Ibram X. Kendi
 - *Measurement* by Paul Lockhart
-- *The Warmth of Other Suns: The Epic Story of America's Great Migration* by Isabel Wilkerson
 - *The Sum of Us: What Racism Costs Everyone and How We Can Prosper Together* by Heather McGhee
 - *Educated* by Tara Westover
+- *Reconstruction: America's Unfinished Revolution, 1863-1877* by Eric Foner
