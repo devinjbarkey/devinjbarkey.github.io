@@ -74,3 +74,6 @@ As part of a resolution to read more books this year, I'm going to be listing bo
 - *The Sum of Us: What Racism Costs Everyone and How We Can Prosper Together* by Heather McGhee
 - *Educated* by Tara Westover
 - *Reconstruction: America's Unfinished Revolution, 1863-1877* by Eric Foner
+- *Never Let Me Go* by Kazuo Ishiguro
+- *The Curse of Bigness* by Tim Wu
+- *Children of Time* by Adrian Tchaikovsky
